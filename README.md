@@ -1,2 +1,2 @@
 # TBF495 Python Programlama Veri Bilimi
-This repository is for an undergraduat course
+This repository is for an undergraduate course
